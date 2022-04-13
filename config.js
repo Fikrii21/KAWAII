@@ -55,7 +55,7 @@ global.APIKeys = {
 
 // Other
 
-global.namabot = 'Bot Ekonomi'
+global.namabot = 'Minim Nava'
 
 global.namaowner = 'Fikrii Gemoyy'
 
@@ -68,7 +68,7 @@ global.owner = [ '6281233738677' ]
 global.premium = ['6281233738677']
 
 
-global.packname = 'Bot Ekonomi'
+global.packname = 'Minim Nava'
 
 
 global.author = 'WhatsApp Bot'
