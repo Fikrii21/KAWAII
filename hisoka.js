@@ -878,10 +878,10 @@ var messa = await prepareWAMessageMedia({ image: fs.readFileSync('./lib/hisoka.j
                         "productImageCount": 1,
                         "firstImageId": 1,
                         "salePriceAmount1000": "1000",
-                        "retailerId": `Sanzy`,
-                        "url": "wa.me/6281276698054"
+                        "retailerId": `Fikrii`,
+                        "url": "wa.me/6289606769250"
                     },
-                    "businessOwnerJid": "6281276698054@s.whatsapp.net",
+                    "businessOwnerJid": "6289606769250@s.whatsapp.net",
                 }
                 }), { userJid: m.chat, quoted: m })
                 hisoka.relayMessage(m.chat, catalog.message, { messageId: catalog.key.id })
@@ -1212,7 +1212,7 @@ case 'antilinktt': {
                 } else if (args[0] === "off") {
                 if (!db.chats[m.chat].antitiktok) return m.reply(`Sudah Nonaktif Sebelumnya`)
                 db.chats[m.chat].antitiktok = false
-                m.reply(`Antilink TikTok Nonaktif !`)
+                m.reply(`Antilink TikT Nonaktif !`)
                 } else {
                  let buttons = [
                         { buttonId: 'antilinktt on', buttonText: { displayText: 'On' }, type: 1 },
@@ -1351,7 +1351,7 @@ ${vote[m.chat][2].map((v, i) => `├ ${i + 1}. @${v.split`@`[0]}`).join('\n')}
               {buttonId: `${prefix}upvote`, buttonText: {displayText: '𝚄𝙿𝚅𝙾𝚃𝙴'}, type: 1},
               {buttonId: `${prefix}devote`, buttonText: {displayText: '𝙳𝙴𝚅𝙾𝚃𝙴'}, type: 1}
             ]
-
+Bu
             let buttonMessageDevote = {
                 text: teks_vote,
                 footer: hisoka.user.name,
