@@ -55,19 +55,19 @@ global.APIKeys = {
 
 // Other
 
-global.namabot = 'Minim Nava'
+global.namabot = 'Araa Chann'
 
-global.namaowner = 'Fikrii Gemoyy'
+global.namaowner = 'Fikrii Sky'
 
-global.myweb = 'https://youtube.com/c/MiycoYT'
-
-
-global.owner = [ '6281233738677'089606769250']
-
-global.premium = ['6281233738677'089606769250']]
+global.myweb = 'https://youtube.com/c/FikriiSky'
 
 
-global.packname = 'Minim Nava'
+global.owner = [ '6281233738677']
+
+global.premium = ['6281233738677']
+
+
+global.packname = 'Araa Chann'
 
 
 global.author = 'WhatsApp Bot'
