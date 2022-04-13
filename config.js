@@ -127,7 +127,7 @@ global.limitawal = {
 }
 
 
-global.thumb = fs.readFileSync('./lib/hisoka.jpg')
+global.thumb = fs.readFileSync('./lib/hisoka1.jpg')
 
 
 global.chatDB = JSON.parse(fs.readFileSync('./chatsDB.js'))
