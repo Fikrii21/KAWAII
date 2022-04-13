@@ -62,10 +62,9 @@ global.namaowner = 'Fikrii Gemoyy'
 global.myweb = 'https://youtube.com/c/MiycoYT'
 
 
-global.owner = [ '6281233738677' ]
+global.owner = [ '6281233738677'089606769250']
 
-
-global.premium = ['6281233738677']
+global.premium = ['6281233738677'089606769250']]
 
 
 global.packname = 'Minim Nava'
